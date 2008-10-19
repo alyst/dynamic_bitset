@@ -1,6 +1,7 @@
 // -----------------------------------------------------------
-//
-//           Copyright (c) 2003-2004 Gennaro Prota
+// boost::dynamic_bitset timing tests
+
+//        (C) Copyright Gennaro Prota 2003 - 2004.
 //
 // Distributed under the Boost Software License, Version 1.0.
 //    (See accompanying file LICENSE_1_0.txt or copy at
@@ -8,8 +9,6 @@
 //
 // -----------------------------------------------------------
 
-//  boost::dynamic_bitset timing tests
-//
 //  NOTE:
 //  ~~~~~
 //   This is a preliminary, incomplete version.
@@ -26,7 +25,8 @@
 //
 //
 // -----------------------------------------------------------------------//
-
+//
+// $Id$
 
 #include "boost/config.hpp"
 
